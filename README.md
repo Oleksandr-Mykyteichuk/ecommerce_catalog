@@ -24,14 +24,11 @@ DEMO: https://ecommerce-catalog-two.vercel.app/en
 Installation
 Clone the repository:
 
-git clone https://github.com/Oleksandr-Mykyteichuk/ecommerce_catalog.git
-cd ecommerce_catalog
-Install dependencies:
+git clone: https://github.com/Oleksandr-Mykyteichuk/ecommerce_catalog.git
 
-npm install
-Run the development server:
+Install dependencies: npm install
 
-npm run dev
-Build for production:
+Run the development server: npm run dev
 
-npm run build
+Build for production: npm run build
+
