@@ -2,22 +2,24 @@ Project: E-commerce Catalog (Web Application)
 An interactive product catalog featuring a modern user interface and product management functionalities.
 
 Key Features:
-Product Display: Showing a list of products with essential details, including filtering and search capabilities.
 
-Product Detail View: Ability to view a dedicated product page/card with extended information.
+- Product Display: Showing a list of products with essential details, including filtering and search capabilities.
 
-Navigation: Efficient and intuitive navigation between categories.
+- Product Detail View: Ability to view a dedicated product page/card with extended information.
 
-User Experience: Responsiveness across various screen sizes, ensuring fast performance and a convenient UX.
+- Navigation: Efficient and intuitive navigation between categories.
 
-Tech Stack
-React
-Next.js
-TypeScript
-SCSS
-Redux Toolkit (for state management)
-Supabase (for authentication and potentially product data)
-Next-Intl (for internationalization)
+- User Experience: Responsiveness across various screen sizes, ensuring fast performance and a convenient UX.
+
+Tech Stack:
+
+- React
+- Next.js
+- TypeScript
+- SCSS
+- Redux Toolkit (for state management)
+- Supabase (for authentication and potentially product data)
+- Next-Intl (for internationalization)
 
 DEMO: https://ecommerce-catalog-two.vercel.app/en
 
